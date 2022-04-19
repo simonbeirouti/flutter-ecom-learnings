@@ -9,6 +9,9 @@
 .history
 .svn/
 
+# Firebase
+lib/firebase_options.dart
+
 # IntelliJ related
 *.iml
 *.ipr
